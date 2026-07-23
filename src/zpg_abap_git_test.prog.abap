@@ -16,3 +16,7 @@ data: e type i.
 data: c2 type i.
 data: d2 type i.
 data: e2 type i.
+*test option auto3
+data: c3 type i.
+data: d3 type i.
+data: e3 type i.
